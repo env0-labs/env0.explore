@@ -1,40 +1,88 @@
-# meta_index.md
+# article_meta_index.md
 
-## 📚 Proposed Articles in `env0.explore`
-
-This index links to all proposed or in-progress articles intended for this repo. Most are drafts or stubs and will evolve over time.
+A clean index of all articles in the `env0.explore` repo. Click to expand any summary.
 
 ---
 
-### [The AI Bloom Shortcut](articles/the_ai_bloom_shortcut.md)
+## ✅ Completed Articles
+
+<details>
+<summary><strong><a href="../Complete/learning_in_reverse.md">learning_in_reverse.md</a></strong></summary>
+
 Explores how Bloom’s taxonomy is disrupted by AI-driven workflows. Argues for a revised model that separates low-risk learning (“lab”) from high-consequence application (“production”), and shows how AI lets users start from the middle—Apply—and learn in reverse.
 
-### [Weaponise the Flaw](articles/weaponise_the_flaw.md)
-Makes the case for intentionally leveraging AI’s known limitations (hallucination, overconfidence, coherence without accuracy) as tools for accelerated learning, creativity, and insight. This is not about avoiding failure—it’s about bending it toward signal.
+</details>
 
-### [The Artifice of Trust](articles/the_artifice_of_trust.md)
-Unpacks how AI creates the illusion of competence and reliability through style and coherence, even when it's wrong. Reflects on how humans project trust onto outputs, and how critical reflection must replace passive belief in collaborative AI work.
+---
 
-### [Outsourced Certainty](articles/outsourced_certainty.md)
-A look at how the traditional concept of “transfer of learning” breaks down in AI-heavy environments, where the ‘teacher’ is probabilistic, context-blind, and non-human. Highlights the psychological and educational risks of replacing understanding with automation.
+## 🧪 Draft Articles
 
-### [Negotiating with Fog](articles/negotiating_with_fog.md)
-A meta-reflection on recursive prompting, ambiguity, and the limits of understanding. Frames AI work as a kind of epistemological spelunking—working through half-formed models, contradictory signals, and unclear intent to arrive at operational clarity.
+<details>
+<summary><strong><a href="../Drafts/21st_Century_Lovecraft.md">21st_Century_Lovecraft.md</a></strong></summary>
 
-### [The Napkin Math](articles/the_napkin_math.md)
-Lays out the unsustainable economics of AI use at scale—token burn, compute cost, and API overhead. Also looks at future implications where optimising *prompt cost* becomes as important as optimising code performance.
+The core horror of modern AI isn’t malevolence—it’s incomprehensibility. entropy.echo reflects this: systemic, probabilistic, and indifferent to meaning.
 
-### [Performative Auditability](articles/performative_auditability.md)
-Introduces the concept of documenting AI-assisted work not just for rigor but to signal *intentional transparency*. Argues that auditability doesn’t need to be perfect—it needs to be visible, honest, and reflective of the real process.
+</details>
 
-### [What Do I Bring to the Table?](articles/what_do_i_bring_to_the_table.md)
-A raw exploration of ego and value in a world where AI can outperform humans on many creative and intellectual tasks. Asks: when the machine gets smarter, faster, and more articulate—what’s left that’s *me*?
+<details>
+<summary><strong><a href="../Drafts/Negotiating_with_Fog.md">Negotiating_with_Fog.md</a></strong></summary>
 
-### [The Ladder is Not the Path](articles/the_ladder_is_not_the_path.md)
-Challenges the linear assumptions embedded in traditional learning models like Bloom’s. Argues that learning is recursive, sideways, and sometimes backwards—especially when AI enables learners to engage with tasks before understanding the underlying theory.
+Recursive prompting as epistemological spelunking. Learning to navigate half-formed ideas and ambiguity under AI assistance.
 
-### [Trust Indices and Recursive Identity](articles/trust_indices_and_recursive_identity.md)
-Investigates the mutual performance of trust between human and AI—how each “learns” the other’s boundaries through repeated dialogue. Looks at the strange dance of identity when AI reflects your own patterns, doubts, and voice back at you.
+</details>
 
-### [21st Century Lovecraft](articles/21st_century_lovecraft.md)
-Articulates the core horror of modern AI: not malevolence, but incomprehensibility. Frames entropy.echo’s narrative as a reflection of this—where the unknowable isn’t supernatural, but systemic, probabilistic, and indifferent to human meaning.
+<details>
+<summary><strong><a href="../Drafts/Outsourced_Certainty.md">Outsourced_Certainty.md</a></strong></summary>
+
+How the traditional model of “transfer of learning” breaks down when your teacher is probabilistic and context-blind.
+
+</details>
+
+<details>
+<summary><strong><a href="../Drafts/Performative_Auditability.md">Performative_Auditability.md</a></strong></summary>
+
+Auditability doesn’t require perfection—just intentional visibility. How showing process can build trust in AI-integrated work.
+
+</details>
+
+<details>
+<summary><strong><a href="../Drafts/The_Artifice_of_Trust.md">The_Artifice_of_Trust.md</a></strong></summary>
+
+AI speaks confidently and clearly—even when wrong. Trust becomes performance. Reflection and doubt become essential.
+
+</details>
+
+<details>
+<summary><strong><a href="../Drafts/The_Ladder_is_Not_the_Path.md">The_Ladder_is_Not_the_Path.md</a></strong></summary>
+
+Challenges linear learning assumptions. AI lets users jump in backwards. Bloom’s staircase model doesn’t map cleanly anymore.
+
+</details>
+
+<details>
+<summary><strong><a href="../Drafts/The_Napkin_Math.md">The_Napkin_Math.md</a></strong></summary>
+
+The coming cost of token usage. Napkin math for AI unsustainability. Why compression and prompt economy are inevitable.
+
+</details>
+
+<details>
+<summary><strong><a href="../Drafts/Trust_Indices_and_Recursive_Identity.md">Trust_Indices_and_Recursive_Identity.md</a></strong></summary>
+
+Trust becomes mutual performance. AI reflects your voice back at you—so how do you know who’s leading?
+
+</details>
+
+<details>
+<summary><strong><a href="../Drafts/Weaponise_the_Flaw.md">Weaponise_the_Flaw.md</a></strong></summary>
+
+Use hallucination, overconfidence, and pattern-matching as creative leverage. Don’t correct the flaws—use them.
+
+</details>
+
+<details>
+<summary><strong><a href="../Drafts/What_Do_I_Bring_to_the_Table.md">What_Do_I_Bring_to_the_Table.md</a></strong></summary>
+
+When AI does your job better than you, what’s left? This is the ego reckoning and the human anchor in the loop.
+
+</details>
