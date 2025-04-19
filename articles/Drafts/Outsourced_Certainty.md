@@ -1,0 +1,1 @@
+A look at how the traditional concept of “transfer of learning” breaks down in AI-heavy environments, where the ‘teacher’ is probabilistic, context-blind, and non-human. Highlights the psychological and educational risks of replacing understanding with automation.

@@ -1,0 +1,1 @@
+Investigates the mutual performance of trust between human and AI—how each “learns” the other’s boundaries through repeated dialogue. Looks at the strange dance of identity when AI reflects your own patterns, doubts, and voice back at you.

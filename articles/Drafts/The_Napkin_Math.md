@@ -1,0 +1,1 @@
+Lays out the unsustainable economics of AI use at scale—token burn, compute cost, and API overhead. Also looks at future implications where optimising *prompt cost* becomes as important as optimising code performance.

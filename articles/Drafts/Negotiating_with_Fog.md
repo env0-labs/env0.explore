@@ -1,0 +1,1 @@
+A meta-reflection on recursive prompting, ambiguity, and the limits of understanding. Frames AI work as a kind of epistemological spelunking—working through half-formed models, contradictory signals, and unclear intent to arrive at operational clarity.

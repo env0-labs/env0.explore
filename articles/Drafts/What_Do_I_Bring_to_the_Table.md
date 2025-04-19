@@ -1,0 +1,1 @@
+A raw exploration of ego and value in a world where AI can outperform humans on many creative and intellectual tasks. Asks: when the machine gets smarter, faster, and more articulate—what’s left that’s *me*?

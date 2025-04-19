@@ -1,0 +1,1 @@
+Introduces the concept of documenting AI-assisted work not just for rigor but to signal *intentional transparency*. Argues that auditability doesn’t need to be perfect—it needs to be visible, honest, and reflective of the real process.

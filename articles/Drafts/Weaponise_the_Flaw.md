@@ -1,0 +1,1 @@
+Makes the case for intentionally leveraging AI’s known limitations (hallucination, overconfidence, coherence without accuracy) as tools for accelerated learning, creativity, and insight. This is not about avoiding failure—it’s about bending it toward signal.

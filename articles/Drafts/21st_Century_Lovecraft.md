@@ -1,0 +1,1 @@
+Articulates the core horror of modern AI: not malevolence, but incomprehensibility. Frames entropy.echo’s narrative as a reflection of this—where the unknowable isn’t supernatural, but systemic, probabilistic, and indifferent to human meaning.

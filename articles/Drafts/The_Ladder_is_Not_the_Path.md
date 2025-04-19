@@ -1,0 +1,1 @@
+Challenges the linear assumptions embedded in traditional learning models like Bloom’s. Argues that learning is recursive, sideways, and sometimes backwards—especially when AI enables learners to engage with tasks before understanding the underlying theory.

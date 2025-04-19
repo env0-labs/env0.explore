@@ -1,0 +1,1 @@
+Unpacks how AI creates the illusion of competence and reliability through style and coherence, even when it's wrong. Reflects on how humans project trust onto outputs, and how critical reflection must replace passive belief in collaborative AI work.
