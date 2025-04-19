@@ -1,4 +1,4 @@
-Welcome to `env0.explore`
+## Welcome to `env0.explore`
 
 This repo is not a product. It’s a process.
 
