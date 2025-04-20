@@ -90,5 +90,19 @@ Compression is also visual:
 
 ---
 
+## 11. Token Burn Meter (Proposed Implementation)
+
+To support live session awareness, a browser-based token estimation meter has been proposed. It would:
+
+- Estimate total tokens based on visible conversation (approx. `word_count * 1.33`)
+- Display token consumption as a live counter or overlay
+- Include optional session health indicators (e.g., green/yellow/red bands)
+- Flag long or dead conversational threads for manual collapse
+
+The purpose is not precision, but awareness. It would allow users to track session entropy, judge reset thresholds, and avoid silent degradation due to compression.
+
+This tool, once implemented, would externalise token load as a visible, interactive element—shifting token discipline from a mental exercise to a navigable UI layer.
+
+
 **TL;DR:**  
 Token discipline is epistemic hygiene. It's not about saving money—it's about keeping the machine usable, interpretable, and yours.
