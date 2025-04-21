@@ -6,36 +6,29 @@
 
 **INT. KERRI’S ROOM – NIGHT**
 
-Kerri films the intro to their latest episode with fake brightness.  
-Alice is offscreen, watching the live preview on her laptop. Annoyed.
+Kerri delivers the intro to their YouTube show, *Cereal Thriller*. Her voice is upbeat, but the energy is forced — she’s performing for the algorithm, not the audience. Offscreen, Alice watches the feed with growing frustration. She pauses the recording.
 
-> “Burke and Hare. Again.”  
-> “We’re out of stuff, Alice. This still gets clicks.”
+They argue: Alice thinks the show is dead, the mystery space is saturated, and they're scraping the bottom. Kerri clings to the idea that something real is still out there — something that could save them if they just found the right story.
 
-They argue:
-- Kerri: still a believer in the channel, in mystery
-- Alice: burned out, bitter, worried about money
+Alice challenges her to name one.
 
-➡ **Transition:** Kerri, quietly scrolling through their video comments, pauses.  
-> “What’s this?”
+> **Motivation bridge:**  
+> Kerri starts scrolling through video comments not because she expects anything — but because she *needs* there to be something. It's desperation, not optimism, that drives the next click.
 
 ---
 
 ## SCENE 2 – The Comment (1:30)
 
-**INT. KERRI’S LAPTOP SCREEN – LATE NIGHT**
+**INT. KERRI’S LAPTOP – LATE NIGHT**
 
-Low-res dashcam footage: dark Scottish road, headlights bouncing.  
-A shape lurches into frame. Long. Human? Deer? It vanishes into trees.  
-No explanation. No description. 9 views.
+A random comment on their last video links to a low-view dashcam clip. In it, a strange shape moves across a Highland road at night. It’s barely visible. Kerri plays it again, frame by frame.
 
-Posted by **hippyjohn212**. Kerri DMs him.
+She shows Alice, who’s unimpressed — could be a deer, compression artifact, anything. But Kerri’s attention is locked on the shape. It's not what it is, it's *how it moves*. The uncanny gap is enough for her to believe.
 
-He replies fast: enthusiastic, personable. Fan of the channel. Says he recognises the road.
+She messages the uploader: **hippyjohn212**. He replies instantly — disarmingly kind. Big fan of the channel. Says he knows where it was shot. Offers to take them.
 
-> “I grew up near there. I can take you to the spot.”
-
-➡ **Transition:** Smash cut to wheels turning — they’ve gone.
+> **Motivation bridge:**  
+> Alice isn’t convinced by the footage — she’s convinced by *Kerri’s belief*. Their partnership is fraying, but not broken. Alice agrees to go *not for the mystery, but for Kerri*. If it turns out to be nothing, they'll just drive home.
 
 ---
 
@@ -43,159 +36,162 @@ He replies fast: enthusiastic, personable. Fan of the channel. Says he recognise
 
 **EXT. HIGHLAND ROAD – EVENING**
 
-Alice drives. GPS shows a blank map with a single line — no side roads, no markers.  
-The trees close in. No signal. Light dying. Isolation total.
+The car climbs into the wilderness. GPS shows a single road. No signal. No turnoffs. The world starts to vanish outside the headlights. They pass a faded sign: **INVERMARVEN FARM**.
 
-They pass an old sign: **Invermarven Farm**.  
-> “There. That’s what he mentioned.”
+There’s a growing tension. Alice drives in silence. Kerri watches the landscape, phone camera recording details — hopeful, like they’re on a proper shoot again.
 
-➡ **Transition:** Headlights cut through increasing darkness. Trees tighten. The road dips.
+They stop. Rewatch the original dashcam video. Frame by frame. The same road. It’s the right place.
+
+> **Motivation bridge:**  
+> Just as Alice starts to doubt *again*, they see something. A shape. A bundle. In the real world, in the road, just like the video.
+
+They’re not chasing a mystery anymore. They’ve *entered* it.
+
+---
 
 ---
 
 ## SCENE 4 – The Thing in the Road (2:00)
 
-**EXT. SINGLE TRACK ROAD – NIGHT**
+**EXT. SINGLE TRACK ROAD – NIGHT**  
+**[DASHCAM FOOTAGE]**
 
-The car jolts to a stop. Something is blocking the road — **red, slick, formless**.  
-Alice wants to reverse. Kerri insists on filming.
+The car stops dead. Something lies in the beam of the headlights — a dark, red, wet shape. It’s not immediately clear what it is. It doesn’t move.
 
-Then: headlights go dark. Automatic shutoff.  
-**SNAP.** Close. Branch breaking.
+Alice wants to back up. Kerri starts filming. Before either decides what to do, the headlights go out — auto shutoff. Complete darkness.
 
-Headlights return.  
-**The Mountain Man** stands in front of the shape, dragging it by chain.  
-He turns to look directly into the lights. Silent.
+A branch snaps. Close. Neither speaks.
 
-Alice throws the car into gear. They tear away down the road.
+The headlights come back on.
 
-➡ **Transition:** Interior of the car. Shaken.  
-> “We got it.”
+**[DASHCAM FOOTAGE]**  
+Now in full beam, a man is standing in the road. **Bare-chested, massive**, with a heavy chain across his shoulder. He’s dragging the shape — now clearly a carcass — across the tarmac. He stops. Looks directly into the headlights.
+
+Doesn’t speak. Doesn’t move.
+
+Alice throws the car into gear and drives past him, fast.
+
+> **Motivation bridge:**  
+> For the first time, the fear is real. Alice wants to run. Kerri wants to *understand*. But now they both know: this isn’t just spooky video content. It’s dangerous. And they’re in it.
 
 ---
 
 ## SCENE 5 – Upload & Blowup (1:30)
 
-**EXT. PUB CARPARK – LATER**
+**EXT. PUB CARPARK – NIGHT**
 
-Alice: “We’re done. No story is worth that.”  
-Kerri: uploading a clip.
+They pull into the safety of civilisation — a pub, light, sound, signal. Alice is visibly shaken. Kerri is quiet, but already reviewing the dashcam footage. It’s all there.
 
-> **Title:** *We HIT Something… Then It Followed Us*
+Alice wants to leave. Go home. Burn the footage. But Kerri, despite her fear, sees the numbers. She edits it. Adds the hook. Uploads it.
 
-It posts. View count ticks upward. Comments explode.
+> **Title:** *We HIT Something… Then It Followed Us*  
+> **Thumbnail:** Still of the Mountain Man mid-step. Blurred. Unmistakably human. Unbelievably large.
 
-Message from John:  
-> “You’re not mad. I’ve seen him too. I know where the commune was.”
+Comments start within minutes. One of them stands out — **hippyjohn212**.
 
-➡ **Transition:** Kerri slaps the laptop shut.  
-Cut to roadside. Waiting.
+> “You’re not crazy. I’ve seen him too. I know where the commune was.”
+
+> **Motivation bridge:**  
+> Kerri wants to meet him. Alice doesn’t. But Kerri says it — if they don’t follow this thread, someone else will.  
+> And this time, Alice doesn’t say no.
 
 ---
 
 ## SCENE 6 – Meeting Hippy John (1:30)
 
-**EXT. LAY-BY – DAY**
+**EXT. LAY-BY / EDGE OF FOREST – DAY**
 
-John arrives. Late 50s. Messy but kind.
+John arrives with a smile. Harmless. Loose clothes. Long hair. Speaks gently. He’s a fan — of their show, of the idea that someone still chases *truth*.
 
-He explains:
-- Peaceful protest commune
-- Gradual descent into isolation and ritual
-- “They started worshipping the idea of something that watched us.”
-- “I left. I think he stayed.”
+He tells them about the commune:
+- It started as a protest camp — anti-war, ecological, spiritual
+- It got isolated. Twisted. 
+- Over time, belief turned into ritual. Then into fear.
 
-> “There’s not much left. But I can show you.”
+> “I left. Most didn’t. He stayed.”
 
-➡ **Transition:** He steps into the trees. They follow.
+He gestures into the trees.
+
+> “There’s not much left, but I can show you.”
+
+> **Motivation bridge:**  
+> Kerri wants to follow. Alice hesitates — it’s not logical. But John’s kindness disarms her. She agrees — on the condition they don’t stay long.
 
 ---
 
 ## SCENE 7 – The Ruins (2:00)
 
-**EXT. COMMUNE RUINS – DUSK**
+**EXT. FOREST INTERIOR – DUSK**
 
-Decaying tents. Stone rings. Burned symbols. Effigies.
+They hike in. The woods thicken. Old paths vanish.  
+Eventually, they reach it — the remains of a commune long since abandoned.
 
-John tells fragmented stories.  
-Then he **disappears**.
+- A burned-out trailer
+- Rotted tents, overgrown with vines
+- Symbols carved into bark
+- Stone rings, carefully maintained
+
+John walks them through it like a tour guide — but his stories start to fray. He can’t remember who lived where. He contradicts himself. Names slip.
+
+Then, suddenly, he’s gone.
 
 > **ALICE**: “John?”
 
-➡ **Transition:** They walk back toward the car. Lights still on.
+No response.
+
+> **Motivation bridge:**  
+> It’s getting dark. They’ve seen enough. They head back toward the car — shaken, silent.
 
 ---
 
 ## SCENE 8 – The Tarp Bundle / Car Dies (1:30)
 
-**EXT. ROAD / HEADLIGHT BEAM – NIGHT**
+**EXT. SINGLE TRACK ROAD – NIGHT**
 
-Dashcam frame: a **plastic-wrapped bundle** in the road.
+They emerge from the trees, shaken. The forest is silent.  
+Their car sits ahead — no lights, no hum, no signal.
 
-Alice exits to investigate.
+Alice unlocks it.  
+**Click.** The locks disengage.  
+They climb in. Doors shut. Breath fogs the air.
 
-She kneels. Pulls the edge of the tarp —  
-**Nothing inside.** Just damp lining and grit. Empty.  
-Her face tightens. This wasn’t a body. It was *bait*.
+The headlights flare on automatically.  
+**[DASHCAM FOOTAGE]** kicks in.
 
-**In the dashcam frame:**  
-Her shadow stretches forward. In the far edge — **something moves**.  
-A vague shape. Still. Watching.
+Now visible in the beam:  
+a **plastic-wrapped bundle**, centre of the road. Neat. Deliberate.
 
-She returns to the car. Tries to start it — nothing.  
-Click. Again. Dead.
+> **KERRI**: “Was that there before?”
 
-> **ALICE**: “We sleep here. First light, we walk.”
+Alice says nothing. Gets out.
 
-They lock the doors.
+**[DASHCAM FOOTAGE]**  
+She approaches. Shadow long behind her.
 
-➡ **Transition:** Dashcam idles. Then darkness.
+Kneels. Peels back the tarp.  
+**Nothing inside.** Just damp lining and grit.
 
----
+She rises.  
+**In her shadow — something shifts.**  
+A figure. Still. Watching.
 
-## SCENE 9 – The Ambush (2:00)
+Alice gets back in. Turns the key.  
+Nothing. Dead.
 
-**INT. INSIDE THE CAR – PRE-DAWN**
+> **KERRI** (panicked): “We’re not sleeping here.”  
+> **ALICE** (flat): “We don’t have a choice.”
 
-They wake. Breath misting.
+She locks the doors.  
 
-- **Shoes are gone**
-- **Map is missing**
-- **Glovebox open**
-- **Keys are turned in the ignition**
+**[DASHCAM FOOTAGE]** lingers.  
+The bundle. The trees.  
+**Motion.** Barely there.
 
-**Someone was inside the car.**
+**Cut to black.**
 
-Alice gets out. Dashcam rolls.
-
-**The Mountain Man appears**, partially in frame. Silent. Watching.
-
-**Everything else is offscreen:**
-- Screams
-- Movement
-- Chain
-
-Alice reappears, dragging Kerri — unconscious, bloody.  
-She rips the dashcam card.
-
-➡ **Transition:** Hard cut. Silence.
-
----
-
-## SCENE 10 – The Edit (1:30)
-
-**INT. FLAT – EARLY MORNING**
-
-Alice edits. Kerri records a talking head — tightly cropped.
-
-Overlay text, pacing, dramatic cuts.  
-No hint of injury.
-
-> **Final Title:** *The Cult That Eats People (Scotland’s Secret Road)*
-
-PUBLISH.
-
-➡ **Transition:** Comment section floods. Trending.
+> **Motivation bridge:**  
+> Kerri wanted to run. Alice made the call.  
+> And that decision will cost them both more than they realise.
 
 ---
 
@@ -203,36 +199,40 @@ PUBLISH.
 
 **INT. FLAT – DAY**
 
-Kerri sits in front of a laptop.
+Muted daylight spills across a cluttered living space. The buzz of a laptop fan hums under a viral comment feed. The video is blowing up. Thousands of views. Comments pouring in.
 
-**Camera pulls back:**
-- **Wheelchair**
-- One leg casted
-- The other **amputated**, under a blanket
+> *“Scripted but fun.”*  
+> *“Great acting!”*  
+> *“These girls are killing it lately.”*
 
-No words. They sit in silence.
+Kerri sits at the desk. Still. Staring at the screen.
+
+**Then we cut wide.**
+
+For the first time, we see the full frame:
+- **Kerri is in a wheelchair.**
+- One leg is fully casted.
+- The other is **gone below the knee** — covered by a folded blanket.
+
+Alice stands nearby, arms crossed, watching the analytics roll in.  
+Neither says anything for a long moment.
+
+Finally:
 
 > **KERRI**: “They think it’s fake.”  
-> **ALICE**: “Good.”  
+> **ALICE** (flat): “Good.”  
 > **KERRI**: “This one cost more.”  
 > **ALICE**: “It’ll trend.”
 
-➡ **Transition:** Fan noise. New comment loads:  
-> *“Scripted but fun.”*
+They sit in silence.  
+Not proud. Not victorious. Just… numb.
+
+> **Motivation bridge:**  
+> There isn’t one. This is the wall.  
+> They got what they wanted — views, validation, a real story —  
+> And now they live with what it cost.  
+> The Mountain Man doesn’t need to kill you.  
+> **The audience will do it for him.**
 
 ---
 
-## SCENE 12 – Optional Final Beat (1:00)
-
-**INT. DASHCAM FOOTAGE – REPLAY**
-
-Static frame. Night.
-
-**The Mountain Man walks through frame**.  
-Dragging something. Doesn’t look. Doesn’t stop.
-
-**Fade out.**
-
----
-
-*End.*
