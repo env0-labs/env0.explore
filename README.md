@@ -24,7 +24,7 @@ This is *human-shaped machine reflection*, captured as process.
 ## 🧰 Where To Start
 
 If you’re just here to read:
-- Start with [`articles/complete/learning_in_reverse.md`](./articles/complete/learning_in_reverse.md)  
+- Start with [`articles/Complete/learning_in_reverse.md`](./articles/Complete/learning_in_reverse.md)  
   This was the first long-form piece to emerge from the work.
 
 If you want to understand the **method**:
