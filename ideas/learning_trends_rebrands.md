@@ -6,7 +6,7 @@
 | **Microlearning**            | Just-in-Time Learning                | ~1990       | Gloria Gery                          | Mobile delivery, tighter scoping, more media-rich                |
 | **Unstructured Learning**    | Informal Learning                    | ~1970s–90s  | Malcolm Knowles                      | Social feeds and AI-curated content, but same informal logic     |
 | **Social Learning**          | Communities of Practice              | 1991        | Jean Lave, Etienne Wenger            | Tech mediation, but human dynamics remain the same               |
-| **Personalized Learning**    | Adaptive Instruction                 | ~1960s–90s  | B.F. Skinner, M. Gordon               | Algorithmic scale, richer data—goal still individual alignment   |
+| **Personalized Learning**    | Adaptive Instruction                 | ~1960s–90s  | B.F. Skinner, M. Gordon              | Algorithmic scale, richer data—goal still individual alignment   |
 | **Learning Agility**         | Metacognition                        | ~1979–90s   | John Flavell                         | Repackaged reflection and transfer skills                        |
 | **Stretch Assignments**      | Zone of Proximal Development         | 1978        | Lev Vygotsky                         | Manager-led application of old theory                            |
 | **Learning Experience Design** | Instructional Design (ADDIE etc.)  | ~1975–80s   | Robert Gagné, US military training   | UX design layered over traditional ID frameworks                 |
@@ -17,14 +17,11 @@
 | **Goal-Based Scenarios**     | Goal-Based Learning                  | 1990s       | Roger Schank                         | Digital simulation replaces paper scenario                       |
 | **Situated Cognition**       | Situated Learning Theory             | ~1980s      | Jean Lave, John Dewey (indirectly)   | Now marketed as real-world task alignment                        |
 | **Performance Support Tools**| Job Aids / Electronic Perf. Support  | ~1980s–90s  | Gloria Gery                          | Delivered inside apps, context-aware                             |
-| **Learning Styles**          | Pseudoscientific Typologies          | ~1970s–80s  | Neil Fleming, David Kolb, others     | None. Should be quietly buried. Never worked. Still doing harm.  |
-| **MBTI in L&D**              | Jungian Typology Repackaged          | 1944        | Isabel Briggs Myers, Katharine Cook Briggs | None. Put it in the same dumpster as Learning Styles. Burn it.   |
+| **Learning Styles**[^1]      | Pseudoscientific Typologies          | ~1970s–80s  | Neil Fleming, David Kolb[^2], others | None. Should be quietly buried. Never worked. Still doing harm.  |
+| **MBTI in L&D**[^1]          | Jungian Typology Repackaged          | 1944        | Isabel Briggs Myers, Katharine Cook Briggs | None. Put it in the same dumpster as Learning Styles. Burn it.   |
 
 ---
 
-> **Note:**  
-> Despite widespread popularity, both Learning Styles and MBTI have been extensively critiqued and largely discredited in academic research. Their continued use reflects cultural inertia, not evidence-based practice.
->
-> > **Clarifying Note on Kolb:**  
-> David Kolb's work is frequently cited in discussions about Learning Styles, but this is often a misrepresentation. His **Experiential Learning Theory** (1984) introduced a cyclical model of learning and described four learning "preferences" (Assimilator, Converger, Diverger, Accommodator) as **adaptive roles** within that cycle, not fixed traits. Unlike later models (e.g. VARK or Honey & Mumford), Kolb did **not** argue that people should be taught according to a matched style. His intent was developmental: learners should engage with *all* stages of the cycle, not remain boxed into one. Including him alongside pseudoscientific Learning Styles frameworks is a distortion of his work but left his name there as it's often dragged into the conversation.
+[^1]: Despite widespread popularity, both Learning Styles and MBTI have been extensively critiqued and largely discredited in academic research. Their continued use reflects cultural inertia, not evidence-based practice.
 
+[^2]: David Kolb's work is frequently cited in discussions about Learning Styles, but this is often a misrepresentation. His *Experiential Learning Theory* (1984) introduced a cyclical model of learning and described four learning "preferences" as adaptive roles, not fixed traits. Unlike later models (e.g. VARK or Honey & Mumford), Kolb did **not** argue for matching teaching to style. His intent was developmental: learners should engage with all stages of the cycle. His name is included here only because he is often dragged into the conversation.
